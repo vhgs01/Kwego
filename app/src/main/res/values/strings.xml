@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kwego Tradutor</string>
+    <string name="txtNumeroKwegonian">Digite o número Kwegonian</string>
+    <string name="txtTraduzir">Traduzir</string>
+    <string name="txtResetar">Resetar</string>
+    <string name="txtErrorInvalidKwegonian">Digite um número Kwegonian</string>
+    <string name="txtResultadoRomano">Resultado em romano</string>
+    <string name="txtResultadoDecimal">Resultado em decimal</string>
+</resources>
