@@ -4,6 +4,6 @@
     <string name="txtTraduzir">Traduzir</string>
     <string name="txtResetar">Resetar</string>
     <string name="txtErrorInvalidKwegonian">Digite um número Kwegonian</string>
-    <string name="txtResultadoRomano">Resultado em romano</string>
-    <string name="txtResultadoDecimal">Resultado em decimal</string>
+    <string name="txtResultadoRomano">Resultado em Romano</string>
+    <string name="txtResultadoDecimal">Resultado em Decimal</string>
 </resources>

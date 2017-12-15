@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtNumeroKwegonian">Enter the Kwegonian number</string>
+    <string name="txtTraduzir">Translate</string>
+    <string name="txtResetar">Reset</string>
+    <string name="txtErrorInvalidKwegonian">Enter a Kwegonian number</string>
+    <string name="txtResultadoRomano">Result in Roman</string>
+    <string name="txtResultadoDecimal">Result in Decimal</string>
+    <string name="app_name">Kwego Translator</string>
+</resources>
